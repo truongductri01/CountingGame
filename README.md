@@ -45,7 +45,7 @@ If you want to increase the game's difficulty, check the <code>main.py</code> an
 <br/>
 Then choose Hard level and try whether you can defeat the computer or not
 <br/>
-**Note**: goalNumber > maxStep > minStep
+Note: goalNumber > maxStep > minStep
 
 
 ****
