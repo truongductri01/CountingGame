@@ -32,17 +32,19 @@ There are some restrictions when counting:
 ### User Guide
 **Note**: make sure all files are in the same directory
 - When you run the <code>main.py</code> file, the game starts and you will need to give some inputs for:
-- 1. Your name
-- 2. Is it the first time you play the game (if yes then a demo will be shown)?
-- 3. Which level you want to play?
--  4. After finishing one game, you may want to choose to restart the game
+	- Your name
+	- Is it the first time you play the game (if yes then a demo will be shown)?
+	- Which level you want to play?
+	- After finishing one game, you may want to choose to restart the game
 
 If you want to increase the game's difficulty, check the <code>main.py</code> and change the following three variables:
 
 1. goalNumber: a number you need to reach or pass to win
 2. minStep: minimum increment for each turn counting
 3. maxStep: maximum increment for each turn counting
+<br/>
 Then choose Hard level and try whether you can defeat the computer or not
+<br/>
 **Note**: goalNumber > maxStep > minStep
 
 
