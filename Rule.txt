@@ -1,0 +1,20 @@
+COUNTING GAME
+A single player game (will consider to upgrade it to more players)
+
+Rule:
+Given a goal number, for example: 30
+We will start the game with counting 1 (or 2, or 3).
+Two players (you and AI) will take turn counting a number,
+who ever reaches counting 30 first will win.
+There are only one restriction when counting:
+1. The first play will count either 1, 2, or 3.
+2. Then for each turn, a player can add 1, 2, or 3
+to the current number to create a new one and count it out.
+    For example: player 1 counts 1, player 2 can either count 2, 3, or 4.
+3. Who counts 30 first will win.
+
+
+Goals:
+1. OOP programming
+2. Create different level, where the computer guesses randomly
+or tactically
