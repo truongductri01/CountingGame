@@ -1,5 +1,6 @@
 ## Welcome to Counting Game
 An OOP Python game which can challenge your intelligence
+Try the live demo: [Counting Game](https://repl.it/@truongductri01/CountingGame#.replit)
 
 **Table of Contents** 
 - [Rule](#rule)
